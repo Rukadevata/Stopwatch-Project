@@ -2,7 +2,9 @@
 
 Aplikasi stopwatch sederhana berbasis GUI menggunakan **Python** dan **PyQt5**. Proyek ini cocok untuk latihan pemrograman Python dan pengembangan antarmuka desktop.
 
-## 🖼️ Tampilan
+## 🖼️ Preview
+
+![Tampilan Stopwatch](image.png)
 
 Stopwatch menampilkan waktu dalam format **jam:menit:detik.milidetik** dan memiliki tiga tombol:
 - **Start**: Memulai stopwatch
