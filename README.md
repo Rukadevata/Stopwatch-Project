@@ -37,5 +37,3 @@ Stopwatch menampilkan waktu dalam format **jam:menit:detik.milidetik** dan memil
 ## 📌 Catatan
 - Aplikasi ini menggunakan **QTimer** untuk menghitung waktu dan **QTime** sebagai penyimpan waktu saat ini.
 - Tampilan dibuat dengan **QVBoxLayout** dan **QHBoxLayout**, serta diberi gaya menggunakan **setStyleSheet**.
-
-## Selamat mencoba dan semoga bermanfaat! 🚀
