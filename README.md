@@ -4,7 +4,9 @@ Aplikasi stopwatch sederhana berbasis GUI menggunakan **Python** dan **PyQt5**. 
 
 ## 🖼️ Preview
 
-![Tampilan Stopwatch](image.png)
+<div align="center">
+  <img src="image.png" alt="Tampilan Stopwatch" width="600"/>
+</div>
 
 Stopwatch menampilkan waktu dalam format **jam:menit:detik.milidetik** dan memiliki tiga tombol:
 - **Start**: Memulai stopwatch
