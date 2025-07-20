@@ -1,29 +1,37 @@
 # Stopwatch Project ⏱️
 
-Proyek stopwatch sederhana menggunakan HTML, CSS, dan JavaScript. Cocok untuk latihan memahami logika waktu dan manipulasi DOM dalam JavaScript.
+Aplikasi stopwatch sederhana berbasis GUI menggunakan **Python** dan **PyQt5**. Proyek ini cocok untuk latihan pemrograman Python dan pengembangan antarmuka desktop.
 
-## 🚀 Fitur
+## 🖼️ Tampilan
 
-- Start / Stop stopwatch
-- Reset waktu ke 00:00:00
-- Tampilan waktu real-time (jam:menit:detik)
+Stopwatch menampilkan waktu dalam format **jam:menit:detik.milidetik** dan memiliki tiga tombol:
+- **Start**: Memulai stopwatch
+- **Stop**: Menghentikan stopwatch
+- **Reset**: Mengatur ulang waktu ke nol
 
-## 🛠️ Teknologi
+## 🛠️ Teknologi yang Digunakan
 
-- HTML
-- CSS
-- JavaScript (vanilla)
+- Python 3
+- PyQt5
 
-## 🧑‍💻 Cara Menjalankan
+## ⚙️ Cara Menjalankan
 
-1. Clone repositori ini:
+1. **Clone repositori ini:**
 
    ```bash
    git clone https://github.com/Bama2262/Stopwatch-Project.git
+   cd Stopwatch-Project
 
-2. Buka file index.html di browser.
+2. **Pastikan PyQt5 sudah terinstal (jika belum):**
+   ```bash
+   pip install PyQt5
 
-3. Tidak memerlukan instalasi tambahan.
+3. **Jalankan aplikasi:**
+   ```bash
+   python main.py
 
 ## 📌 Catatan
-Proyek ini dibuat untuk latihan logika pemrograman frontend, terutama penggunaan fungsi setInterval, event listener, dan manipulasi elemen HTML dengan JavaScript.
+- Aplikasi ini menggunakan QTimer untuk menghitung waktu dan QTime sebagai penyimpan waktu saat ini.
+- Tampilan dibuat dengan QVBoxLayout dan QHBoxLayout, serta diberi gaya menggunakan setStyleSheet.
+
+Selamat mencoba dan semoga bermanfaat! 🚀
