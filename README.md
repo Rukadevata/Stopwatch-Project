@@ -5,7 +5,7 @@ A simple GUI-based stopwatch application using **Python** and **PyQt5**. This pr
 ## 🖼️ Preview
 
 <div align="center">
-  <img src="image.png" alt="stopwatch display" width="600"/>
+  <img src="preview.png" alt="stopwatch display" width="600"/>
 </div>
 
 The stopwatch displays time in **hour:minute:second:millisecond** format and has three buttons:
