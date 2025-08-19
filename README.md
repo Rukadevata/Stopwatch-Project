@@ -23,7 +23,7 @@ The stopwatch displays time in **hour:minute:second:millisecond** format and has
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/Bama2262/Stopwatch-Project.git
+   git clone https://github.com/Rukadevata/Stopwatch-Project.git
    cd Stopwatch-Project
 
 2. **Make sure PyQt5 is installed (if not already):**
